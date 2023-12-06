@@ -120,7 +120,7 @@ footer {
     width: 910px;
     margin: 0;
     padding: 10px;
-    background-color: rgb(209, 209, 224); ;
+    background-color: rgb(209, 209, 224); 
     clear: both;
     color: wheat;
     font-weight: bold;
@@ -148,4 +148,8 @@ footer a:visited {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+table, th, td {
+	border: 2px solid;
 }
